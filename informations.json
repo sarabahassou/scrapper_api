@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://www.ewebsolutions.fr",
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "images": 2,
+    "resources": 0,
+    "styles": 0,
+    "scripts": 0,
+    "computedStyles": 10,
+    "pages": 1
+  },
+  {
+    "url": "https://www.ewebsolutions.fr/#services",
+    "internalLinks": 4,
+    "externalLinks": 0,
+    "images": 0,
+    "resources": 0,
+    "pages": 2
+  },
+  {
+    "url": "https://www.ewebsolutions.fr/#realisations",
+    "internalLinks": 0,
+    "externalLinks": 6,
+    "images": 6,
+    "styles": 0,
+    "scripts": 0,
+    "computedStyles": 11,
+    "pages": 3
+  },
+  {
+    "url": "https://boutique-ewebsolutions.fr/",
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "images": 1,
+    "stylesheets": 1,
+    "scripts": 0,
+    "pages": 4
+  },
+  {
+    "url": "https://www.ewebsolutions.fr/#contact",
+    "internalLinks": 0,
+    "externalLinks": 0,
+    "images": 0,
+    "resources": 0,
+    "styles": 1,
+    "scripts": 1,
+    "computedStyles": 54,
+    "pages": 5
+  }
+]
